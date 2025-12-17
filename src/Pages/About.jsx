@@ -205,7 +205,7 @@ const AboutPage = () => {
                 data-aos="fade-right"
                 data-aos-duration="1300"
               >
-                Eki Zulfar Rachman
+                Rohman Maulana
               </span>
             </h2>
             
@@ -214,7 +214,7 @@ const AboutPage = () => {
               data-aos="fade-right"
               data-aos-duration="1500"
             >
-             Seorang lulusan Teknik Jaringan Komputer dan Telekomunikasi yang memiliki ketertarikan besar dalam pengembangan Front-End. Saya berfokus pada menciptakan pengalaman digital yang menarik dan selalu berusaha memberikan solusi terbaik dalam setiap proyek yang saya kerjakan.
+             Mahasiswa Informatika yang berfokus pada pengembangan Web. Memiliki ketertarikan dalam membangun aplikasi web yang fungsional, responsif, dan memberikan pengalaman digital yang baik serta solusi terbaik dalam setiap proyek yang dikerjakan.
             </p>
 
                {/* Quote Section */}
@@ -235,7 +235,7 @@ const AboutPage = () => {
         </div>
         
         <blockquote className="text-gray-300 text-center lg:text-left italic font-medium text-sm relative z-10 pl-6">
-          "Leveraging AI as a professional tool, not a replacement."
+          "Using AI to enhance productivity, not to replace human expertise."
         </blockquote>
       </div>
 
